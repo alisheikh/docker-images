@@ -1,5 +1,9 @@
 This is a docker image for the Zanata server. This image runs a wildfly server with Zanata running on top of it. It does not run a database server for the Zanata application
 
+```
+This image has been tested with Docker 1.8
+```
+
 ## Building
 
 To build this docker image, simply type the following command:
